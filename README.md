@@ -75,6 +75,8 @@ References and Practice to help you master this module.
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 - [flavicops](https://flaviocopes.com/javascript-event-loop/)
 - [javascript.info/settimeout-setinterval](https://javascript.info/settimeout-setinterval)
+- [https://javascript.info/event-loop](https://javascript.info/event-loop)
+- [Use case for using setTimeout(0)](https://javascript.info/event-loop#use-case-3-doing-something-after-the-event)
 - [Beau from FCC](https://www.youtube.com/watch?v=kOcFZV3c75I) (timeouts & intervals)
 
 ### Callbacks, Promises, Async
@@ -189,7 +191,23 @@ The Event Loop!
 
 > after class
 
-Reverse-Engineer [pomofocus.io](https://pomofocus.io/) (minus the Report, Settings and Login buttons).
+Reverse-Engineer [pomofocus.io](https://pomofocus.io/) (minus the Report, Settings and Login buttons).  Here is a [boilerplate repository](https://github.com/HackYourFutureBelgium/starter-basic-import-export) to get you started.
+
+#### Checklist
+
+```md
+- [ ] [repo](https://github.com/_/_) (with a complete README)
+- [ ] [live demo](https://_.github.io/_)
+- Project Planning
+  - [ ] [Backlog](https://github.com/_/_/tree/master/project-planning/backlog.md)
+  - [ ] [Development Strategy](https://github.com/_/_/tree/master/project-planning/development-strategy.md)
+  - [ ] [Project board](https://github.com/_/_/projects/_)
+- Implementation
+  - [ ] ES Modules (`import`/`export`)
+  - [ ] at least one `class`
+  - [ ] at least one `setTimeout` and one `setInterval`
+  - [ ] Logs of each user interaction
+```
 
 </details>
 
@@ -321,4 +339,11 @@ Because this project has a backend it's not possible to deploy it with GitHub Pa
 ---
 
 ### Class 9 & 10
+
+> [Bram](https://github.com/bramdevries), [Deni](https://github.com/denichodev)
+
+1. week 1:
+    - Part 1: [Isolate - The Event Loop](https://vimeo.com/459858141)
+    - Part 2: [Integrate - Event Loop](https://vimeo.com/460082162)
+    - Part 3: [Recap & Project Intro](https://vimeo.com/460082763)
 
